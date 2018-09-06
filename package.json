@@ -1,0 +1,14 @@
+{
+  "name": "yoga-api-hack",
+  "version": "1.0.0",
+  "description": "Create a small application using the lightning-yoga-api endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahay",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}

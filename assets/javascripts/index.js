@@ -1,0 +1,1 @@
+// Make functions here like "watchSubmit", "getDataFromAPI", and "renderCategories" here
