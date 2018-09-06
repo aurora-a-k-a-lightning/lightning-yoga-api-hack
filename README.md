@@ -2,6 +2,8 @@
 
 Create a small application using this api: https://lightning-yoga-api.herokuapp.com/
 
+> Note: this api is hosted on a free Heroku server, so, the response may take a little bit to boot up on the first call 
+
 Sharpens:
 - reading api documentation
 - JavaScript chops
