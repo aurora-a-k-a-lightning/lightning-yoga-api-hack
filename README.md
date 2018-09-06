@@ -30,7 +30,7 @@ In your terminal:
 
 ### Bonus:
 - Make the page accessible
-- Change the pose selection to only use a retrieved of categories from the api
+- Change the pose selection to only use a retrieved list of categories from the api
 - Show the images of the poses
 
 ### Quirks about http-server
