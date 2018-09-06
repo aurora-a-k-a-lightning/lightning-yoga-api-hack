@@ -35,4 +35,4 @@ In your terminal:
 
 ### Quirks about http-server
 
-- If you do not see changes in your application after editing a file, so a hard reload in the browser (ctr + f5 or cmd + f5).
+- If you do not see changes in your application after editing a file, so a hard reload in the browser (ctrl + f5 or cmd + f5).
